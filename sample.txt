@@ -1,1 +1,2 @@
 Welcome to first sample git project
+Added second line
