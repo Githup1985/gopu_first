@@ -1,7 +1,4 @@
 Welcome to first sample git project
 Added second line
-<<<<<<< HEAD
 Added fourth line from first user
-=======
 Added third line
->>>>>>> d9d9327ec4e56dfdababe8b3bcdfd4b391434083
